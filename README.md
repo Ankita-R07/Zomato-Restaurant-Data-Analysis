@@ -17,7 +17,7 @@ Using Python, the project applies data cleaning, exploratory data analysis (EDA)
 
 ## Dataset Description
 
-The project uses the `Zomato_DS.csv` dataset containing restaurant information.
+The project uses the `zomato_dataset.csv` dataset containing restaurant information.
 
 **Dataset Overview:**
 - Total Records: 7,105 restaurants
