@@ -129,7 +129,7 @@ The analysis revealed several interesting patterns:
 Zomato-Restaurant-Data-Analysis/
 │
 ├── Zomato Data Analysis Code.ipynb
-├── Zomato_DS.csv
+├── zomato_dataset.csv
 └── README.md
 ```
 
@@ -153,7 +153,7 @@ cd Zomato-Restaurant-Data-Analysis
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-4. Ensure `Zomato_DS.csv` is available in the notebook's working directory.
+4. Ensure `zomato_dataset.csv` is available in the notebook's working directory.
 
 5. Launch Jupyter Notebook:
 
